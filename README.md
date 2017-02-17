@@ -2,4 +2,3 @@
 + Hi, I am Ashwini Chaube. 
 + I work at Lending Club within Credit Risk Analytics. 
 + Outside work, I am an active runner and learning badminton these days.
-+ ..
